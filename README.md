@@ -79,8 +79,8 @@ git clone https://github.com/ManarAbuArab/LibraryManagementSystem.git
 ---
 
 ## 👩‍💻 Author
+Manar Abu Arab
 
-**Manar Abu Arab**
 ---
 
 ## 🌟 Project Goal
