@@ -37,11 +37,30 @@ The system applies Object-Oriented Programming (OOP) concepts and focuses on cle
 ```text
 src/
 │
-├── models/
-├── views/
+├── app/
+│   └── Main.java
+│
+├── config/
+│   └── DBConnection.java
+│
 ├── controllers/
-├── data/
-└── app/
+│   └── BorrowController.java
+│
+├── dao/
+│   ├── BookDAO.java
+│   ├── StudentDAO.java
+│   └── BorrowDAO.java
+│
+├── models/
+│   ├── Book.java
+│   ├── Student.java
+│   └── Borrow.java
+│
+├── styles/
+│   └── BorrowFormStyle.css
+│
+└── views/
+    └── Borrow.fxml
 ```
 
 ---
